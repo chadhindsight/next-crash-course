@@ -10,5 +10,4 @@ const ArticleList = ({ articles }) => {
         </div>
     )
 }
-// Reload
 export default ArticleList
