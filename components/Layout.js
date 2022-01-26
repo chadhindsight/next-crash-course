@@ -6,7 +6,6 @@ import styles from '../styles/Layout.module.css';
 ; const Layout = ({ children }) => {
     return (
         <>
-            {/* double check what Meta is */}
             <Meta />
             <Nav />
             <div className={styles.container}>
